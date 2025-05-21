@@ -1,2 +1,2 @@
 # pricing-strategies
-Pricing Strategy Project
+Pricing Landscape of Smart Home Gyms
